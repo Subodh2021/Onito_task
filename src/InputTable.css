@@ -1,0 +1,76 @@
+  
+ td,th,tr{
+   
+    border: none !important;      
+ }
+
+ table{
+    background-color:rgb(237, 236, 236) !important;
+    border-top: 10px !important;
+    border-top-color: aqua !important;
+ }
+ input,select ,button{
+    border-radius: 5px;
+    border-color: rgb(0, 5, 11);
+    border-width: 1px;
+    height: 30px;
+    padding-right: 30px !important;
+    background-color:rgb(237, 236, 236);
+    }
+    select{
+      -webkit-appearance: button;
+     -moz-appearance: button;
+    }
+
+    input{
+      -webkit-appearance:searchfield !important;
+    }
+    *::-webkit-search-cancel-button{
+      -webkit-appearance: searchfield-cancel-button  !important;
+      background: black;
+    }
+.error{
+  color: crimson;
+  font-size: 13px;
+}
+   .styled-select {
+    background-color: aqua;
+   }
+    
+    .td{
+    border-style: hidden;   
+    }
+    
+    input {
+        margin-left: 2px;
+    }
+    
+    a{
+        margin-left: 20px;
+        margin-right: 11px;
+        
+    }
+    
+    .errore{
+      
+      color: aqua;
+      text-align: end;
+    }
+    
+    .buttontext{
+      font-size: 10px;
+      text-decoration: underline;
+      
+      
+    }
+
+   .opt{
+    color: brown;
+   }
+
+    .butto{
+      height: 50px;
+    }    
+    .ast{
+        color:red;
+    }
